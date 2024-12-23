@@ -1,0 +1,736 @@
+----------
+参照URL：www.nta.go.jp/taxes/kids/index.htm
+タイトル：税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/index.htm
+タイトル：もくじ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page00.htm
+タイトル：はじめに | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page01.htm
+タイトル：[税って何だろう]　税は会費のようなもの | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page02.htm
+タイトル：[税って何だろう]　身近な税金について | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page03.htm
+タイトル：[税って何に使われているの？]　国の収入と支出 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page04.htm
+タイトル：[税って何に使われているの？]　身近な税の使いみち～国民医療費、年金など～ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page05.htm
+タイトル：[税って何に使われているの？]　身近な税の使いみち～公共事業～ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page06.htm
+タイトル：[税って何に使われているの？]　身近な税の使いみち～教育費～ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page07.htm
+タイトル：[税って何に使われているの？]　身近な税の使いみち～警察・消防費、ごみ処理費用～ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page08.htm
+タイトル：[税って何に使われているの？]　身近な税の使いみち～経済協力費～ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page09.htm
+タイトル：[税って何に使われているの？]　税金の使いみちは、どうやって決めているの？ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page10.htm
+タイトル：[将来の税はどうなるの？]　国の借金 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page11.htm
+タイトル：[将来の税はどうなるの？]　少子・高齢化 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page12.htm
+タイトル：[将来の税はどうなるの？]　これからの社会と税 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page13.htm
+タイトル：日本と外国の税を比べると？ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page14.htm
+タイトル：税についての決まり | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page15.htm
+タイトル：国の税をあつかう仕事 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page16.htm
+タイトル：税は昔からあったの？ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page17.htm
+タイトル：データ集 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/page18.htm
+タイトル：用語集 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/nyumon/use.htm
+タイトル：このページの使い方 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/index.htm
+タイトル：もくじ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page00.htm
+タイトル：はじめに | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page01.htm
+タイトル：[税のしくみ]　税の意義と役割 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page02.htm
+タイトル：[税のしくみ]　税の種類と分類 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page03.htm
+タイトル：[国の財政]　財政のしくみと役割 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page04.htm
+タイトル：[国の財政]　歳出～社会保障関係費～ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page05.htm
+タイトル：[国の財政]　歳出～公共事業関係費～ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page06.htm
+タイトル：[国の財政]　歳出～文教及び科学振興費～ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page07.htm
+タイトル：[国の財政]　歳出～地方交付税交付金等～ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page08.htm
+タイトル：[国の財政]　歳出～経済協力費～ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page09.htm
+タイトル：[国の財政]　国の予算 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page10.htm
+タイトル：[これからの社会と税]　日本の財政の現状と課題 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page11.htm
+タイトル：[これからの社会と税]　少子・高齢化 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page12.htm
+タイトル：[これからの社会と税]　これからの社会と税 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page13.htm
+タイトル：税の国際比較 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page14.htm
+タイトル：納税の義務 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page15.htm
+タイトル：国税に関する組織 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page16.htm
+タイトル：税の歴史 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page17.htm
+タイトル：データ集 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/page18.htm
+タイトル：用語集 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/hatten/use.htm
+タイトル：このページの使い方 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/index.htm
+タイトル：目次 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page01.htm
+タイトル：[暮らしの中の税]　身の回りの税 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page02.htm
+タイトル：[暮らしの中の税]　身の回りの公共サービス (1) | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page03.htm
+タイトル：[暮らしの中の税]　身の回りの公共サービス (2) | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page04.htm
+タイトル：[暮らしの中の税]　暮らしの中の税（まとめ） | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page05.htm
+タイトル：[なぜ、税を納めなければならないのでしょうか]　税のエピソード・アメリカ編 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page06.htm
+タイトル：[なぜ、税を納めなければならないのでしょうか]　税のエピソード・日本編 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page07.htm
+タイトル：[なぜ、税を納めなければならないのでしょうか]　憲法における「納税の義務」 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page08.htm
+タイトル：[なぜ、税を納めなければならないのでしょうか]　税の決定者 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page09.htm
+タイトル：[なぜ、税を納めなければならないのでしょうか]　なぜ、税を納めなければならないのでしょうか（まとめ） | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page10.htm
+タイトル：[なぜ、税を納めなければならないのでしょうか]　税の豆知識　国税庁・国税局・税務署の仕事 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page11.htm
+タイトル：[これからの社会と税]　国の財政（1） | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page12.htm
+タイトル：[これからの社会と税]　国の財政（2） | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page13.htm
+タイトル：[これからの社会と税]　国の財政（3） | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page14.htm
+タイトル：[これからの社会と税]　これからの国の財政 (1) | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page15.htm
+タイトル：[これからの社会と税]　これからの国の財政 (2) | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page16.htm
+タイトル：[これからの社会と税]　国の財政を考える（まとめ） | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page17.htm
+タイトル：[これからの社会と税]　社会保障と税の一体改革 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/oyo/page18.htm
+タイトル：[これからの社会と税]　これからの社会と税（まとめ） | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/jissen/index.htm
+タイトル：目次 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/jissen/page01.htm
+タイトル：[申告書を作成してみよう]　アルバイト代の確定申告をしてみよう | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/jissen/page02.htm
+タイトル：[申告書を作成してみよう]　所得税及び復興特別所得税を計算してみよう（1）概要 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/jissen/page03.htm
+タイトル：[申告書を作成してみよう]　所得税及び復興特別所得税を計算してみよう （2）収入金額等 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/jissen/page04.htm
+タイトル：[申告書を作成してみよう]　所得税及び復興特別所得税を計算してみよう （3）1回目の控除（必要経費など） | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/jissen/page05.htm
+タイトル：[申告書を作成してみよう]　所得税及び復興特別所得税を計算してみよう（4）2回目の控除（所得控除） | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/jissen/page06.htm
+タイトル：[申告書を作成してみよう]　所得税及び復興特別所得税を計算してみよう （5）所得から差し引かれる金額 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/jissen/page07.htm
+タイトル：[申告書を作成してみよう]　所得税及び復興特別所得税を計算してみよう （6）税額の計算 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/jissen/page08.htm
+タイトル：[申告書を作成してみよう]　所得税及び復興特別所得税を計算してみよう　まとめ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/kyozai/index.htm
+タイトル：租税教育用教材 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/kyozai/shogaku/index.htm
+タイトル：小学生用教材及び講師用マニュアル | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/kyozai/chugaku/index.htm
+タイトル：中学生用教材及び講師用マニュアル | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/kyozai/koko/index.htm
+タイトル：高校生用教材及び講師用マニュアル | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/kyozai/jireishu/index.htm
+タイトル：租税教育の事例集 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/kyozai/sozei/index.htm
+タイトル：租税教育用動画  | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/kyozai/sozei/shogaku.htm
+タイトル：租税教育用動画  | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/kyozai/sozei/chugaku.htm
+タイトル：租税教育用動画  | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/kyozai/sozei/koko.htm
+タイトル：租税教育用動画  | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/kyozai/seminar/index.htm
+タイトル：租税教育セミナー（教員・講師向け動画） | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/index.htm
+タイトル：税の作文（中学生・高校生） | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/h29/index.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/h28/index.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r06/index.htm
+タイトル：令和6年度「税に関する高校生の作文」国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r06/sakubun.htm
+タイトル：令和6年度「税に関する高校生の作文」国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/h30/index.htm
+タイトル：平成30年度「税に関する高校生の作文」国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/h30/sakubun.htm
+タイトル：平成30年度「税に関する高校生の作文」国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r05/index.htm
+タイトル：令和5年度「税に関する高校生の作文」国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r05/sakubun.htm
+タイトル：令和5年度「税に関する高校生の作文」国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r05/boshu.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r04/index.htm
+タイトル：令和4年度「税に関する高校生の作文」国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r04/sakubun.htm
+タイトル：令和4年度「税に関する高校生の作文」国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r04/boshu.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r03/index.htm
+タイトル：令和3年度「税に関する高校生の作文」国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r03/boshu.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r03/sakubun.htm
+タイトル：令和3年度「税に関する高校生の作文」国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r02/index.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/koko/r1/index.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/h28/index.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/r06/index.htm
+タイトル：令和6年度　中学生の「税についての作文」各大臣賞・国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/r05/boshu.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/r05/index.htm
+タイトル：令和5年度　中学生の「税についての作文」各大臣賞・国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/r05/sakubun.htm
+タイトル：令和5年度　中学生の「税についての作文」各大臣賞・国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/r04/boshu.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/r04/index.htm
+タイトル：令和4年度　中学生の「税についての作文」各大臣賞・国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/r02/index.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/r01/index.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/r01/boshu.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/r01/dantai_shokai.htm
+タイトル：各団体名と各団体の紹介文｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/h30/index.htm
+タイトル：平成30年度　中学生の「税についての作文」各大臣賞・国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/h30/boshu.htm
+タイトル：平成30年度　中学生の「税についての作文」募集 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/h30/sakubun.htm
+タイトル：平成30年度　中学生の「税についての作文」各大臣賞・国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/h30/dantai_shokai.htm
+タイトル：各団体名と各団体の紹介文｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/h29/index.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/h29/dantai_shokai.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/r03/index.htm
+タイトル：令和3年度　中学生の「税についての作文」各大臣賞・国税庁長官賞受賞者発表 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sakubun/chugaku/r03/boshu.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/video/index.htm
+タイトル：ビデオ（ライブラリー）  | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/video/ichiran/index.htm
+タイトル：ビデオ一覧 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/ehon/index.htm
+タイトル：紙しばい・絵本のコーナー | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/book/ehon.htm
+タイトル：指定されたページを表示できませんでした
+本文：指定されたページを表示できませんでした
+お探しのページは、移動または削除されたか、もしくはご指定のアドレス（URL）が誤っている可能性があります。
+国税庁ホームページ内の情報をお探しの場合は、「サイト内検索」をご利用ください。
+【国税庁ホームページ】
+https://www.nta.go.jp/
+【サイトマップ】
+https://www.nta.go.jp/sitemap/index.htm
+このページの先頭へ
+サイトマップ（コンテンツ一覧）
+----------
+参照URL：www.nta.go.jp/taxes/kids/qa/index.htm
+タイトル：よくある質問と答え | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/questionnaire/index.htm
+タイトル：アンケート | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/teacher/index.htm
+タイトル：先生方へ | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/teacher/files/html/print_01.htm
+タイトル：税の学習プリント
+本文：税の学習プリント
+ 年 組 番 名前： 
+＊ 次の言葉について、まとめてみましょう
+消費税
+所得税
+公的サービス
+予算
+税務署
+＊ 感想
+----------
+参照URL：www.nta.go.jp/taxes/kids/teacher/files/html/print_02.htm
+タイトル：税の学習プリント
+本文：税の学習プリント
+ 年 組 番 名前： 
+税の使いみちは、誰がどのようにして決めるのでしょうか。
+わたしたちの身近で税金が使われている例を2つあげてみましょう。
+＊ 感想
+----------
+参照URL：www.nta.go.jp/taxes/kids/teacher/files/html/print_03.htm
+タイトル：税の学習プリント
+本文：税の学習プリント
+ 年 組 番 名前： 
+＊ 日本の税を取り巻く問題点についてまとめてみましょう。
+＊ 問題点を解決するにはどうしたらいいか考えてみましょう。
+＊ 感想
+----------
+参照URL：www.nta.go.jp/taxes/kids/teacher/files/html/guidance.htm
+タイトル：税の学習指導案
+本文：税の学習指導案
+主題 税金をなぜ納めなければならないのか考えよう
+授業のめあて 税金の必要性について認識させる
+展開
+&nbsp;活動・発問
+反応又は指示する内容
+留意事項
+導入
+&nbsp;5分
+1.
+身の回りの税金について知る
+＊
+みなさんはどんな税金を知っていますか。
+＊
+知らない
+＊
+消費税
+＊
+電気代など公共料金
+＊
+交通費
+まちがいは、まとめて指摘する
+
+自由に発言を認める
+展開
+&nbsp;40分
+2.
+税金について調べさせる
+3.
+調べてわかったことを発表させる
+4.
+知識の確認
+＊
+もし税金がなかったらどうなるだろう
+税の学習コーナーの紹介
+マシン利用の注意を行う
+作業できる時間をあらかじめ指定する（20分程度）
+税金の何について調べるかを示す
+班活動の場合は、あらかじめ発表者を決めておく
+個人活動の場合は、数名指名して答えさせる
+感想も述べさせる
+＊
+困る
+＊
+暮らしが豊かでなくなる
+インターネット利用の注意を再確認する。
+&nbsp;
+作業終了の時間をきちんと示して守らせる。
+何がわかったか明確でない場合は、質問して答えさせる。
+答が出ない場合は、具体的な例で問う。
+まとめ
+&nbsp;5分
+5.&nbsp;
+ふりかえり
+＊
+税金はなぜ必要なのでしょうか
+&nbsp;&nbsp;
+----------
+参照URL：www.nta.go.jp/taxes/kids/kyoku/index.htm
+タイトル：各国税局学習コーナー | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/link/index.htm
+タイトル：リンク集 | 税の学習コーナー｜国税庁
+本文：
+----------
+参照URL：www.nta.go.jp/taxes/kids/sozei_kyoiku/index.htm
+タイトル：租税教育の充実に向けた取組 | 税の学習コーナー｜国税庁
+本文：
